@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Instruct.SI"
 title_separator          : "-"
-subtitle                 : Instruct.SI consotrium
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : # Instruct.SI consotrium
+name                     : "Instruct.SI"
+description              : "Consortium for integrative structural biology in Slovenia"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
