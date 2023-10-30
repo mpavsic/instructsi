@@ -24,7 +24,7 @@ description              : "Consortium for integrative structural biology in Slo
 url                      : https://mpavsic.github.io/instructsi
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/base/intro_01_bw.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -59,11 +59,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -108,7 +108,7 @@ author:
   avatar           : /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png
   bio              : "Consortium for integrative structural biology in Slovenia."
   location         : "Slovenia"
-  email            : instruct.si@ki.si
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -218,7 +218,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Ljubljana # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -288,3 +288,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+      read_time: true
