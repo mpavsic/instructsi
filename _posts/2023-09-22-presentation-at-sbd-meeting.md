@@ -1,5 +1,5 @@
 ---
-title: "Slovenia joins Instruct-ERIC"
+title: "Instruct.SI and Instruct-ERIC presented at Slovenian Biochemical Society Meeting"
 categories:
   - Outreach
 tags:
