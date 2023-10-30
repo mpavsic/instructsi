@@ -12,24 +12,24 @@ excerpt: >
   Enabling researchers from Slovenia a funded access to high-end structural biology services and techniques
 feature_row:
   - image_path: /assets/images/base/intro_01_bw.png
+    alt: "Instruct-ERIC"
+    title: "Instruct-ERIC"
+    excerpt: "What Instruct-ERIC is about, and what it offers to researchers from member countries."
+    url: "instruct-eric"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/base/intro_01_bw.png
     alt: "application"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "How to apply"
+    excerpt: "How to apply for funded access to the infrastructure and other services offered by Instrust-ERIC."
+    url: "/application/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/base/intro_01_bw.png
     alt: "infrastructure"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/base/intro_01_bw.png
-    alt: "infrastructure"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    title: "Infrastructure"
+    excerpt: "Info on structural biology infrastructure available in Slovenia."
+    url: "/infrastructure/
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
