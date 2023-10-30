@@ -10,4 +10,4 @@ Slovenia joined the [Instruct-ERIC](https://instruct-eric.org/) consortium ([ann
 
 ![Slovenia joins Instruct-ERIC]({{ site.url }}{{ site.baseurl }}/assets/images/posts/2023-05-10-slovenia_instruct-eric.jpg)
 
-Photo credits: [Instruct-ERIC](https://instruct-eric.org/)
+Photo credits: Instruct-ERIC
