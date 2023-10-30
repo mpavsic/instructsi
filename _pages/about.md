@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 toc: true
 last_modified_at: 2023-10-30
+toc_sticky: true
 ---
 
 Instruct.SI is a consortium of academic institutions in Slovenia that brings together research infrastructure in the field of structural biology. The consortium was established upon the inclusion of the Republic of Slovenia in [Instruct-ERIC](https://instruct-eric.org/).

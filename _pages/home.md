@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/base/intro_01_bw.png
     alt: "application"
     title: "How to apply"
-    excerpt: "How to apply for funded access to the infrastructure and other services offered by Instrust-ERIC."
+    excerpt: "How to apply for funded access to the services offered by Instrust-ERIC."
     url: "/application/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
