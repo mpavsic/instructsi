@@ -18,6 +18,8 @@ The purpose and goals the Instruct.SI consortium are primarily:
 
 # Member institutions
 
+*TODO: a list of member institutions with their logos*
+
 # Management board
 
 The management board of the Instruct.SI consortium is composed of one main representative from each of the member institutions, plus one deputy member.
@@ -58,3 +60,4 @@ Membership of the Republic of Slovenia in the Instruct-ERIC is financed by:
 - [Slovenian Research and Innovation Agency](https://www.arrs.si/en/)
 - [Ministry of Higher Education, Science and Innovation](https://www.gov.si/en/state-authorities/ministries/ministry-of-higher-education-science-and-innovation/) of the Republic of Slovenia
 
+*TODO: logos of ARIS and Ministry*

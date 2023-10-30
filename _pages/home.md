@@ -29,7 +29,7 @@ feature_row:
     alt: "infrastructure"
     title: "Infrastructure"
     excerpt: "Info on structural biology infrastructure available in Slovenia."
-    url: "/infrastructure/"
+    url: "/infrastructure_si/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
