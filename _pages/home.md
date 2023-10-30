@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/base/intro_01.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> About"
+    - label: "<i class='fas fa-info'></i> About"
       url: "/about/"
 excerpt: >
   Enabling researchers from Slovenia a funded access to high-end structural biology services and techniques
