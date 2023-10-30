@@ -21,7 +21,7 @@ The purpose and goals the Instruct.SI consortium are primarily:
 
 The management board of the Instruct.SI consortium is composed of one main representative from each of the member institutions, plus one deputy member.
 
-| Institution/representative 	| Main representative 	| Deputy representative 	|
+| Institution 	| Main representative 	| Deputy representative 	|
 |---	|---	|---	|
 | CIPKeBiP 	|  	| Prof. Dr. **Nataša Poklar Ulrih** 	|
 | IJS 	| Prof. Dr. **Dušan Turk** 	| Prof. Dr. **Igor Križaj** 	|
