@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "Instruct.SI"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png
   bio              : "Consortium for integrative structural biology in Slovenia."
   location         : "Slovenia"
-  email            :
+  email            : instruct.si@ki.si
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
