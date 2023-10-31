@@ -12,9 +12,9 @@ sidebar:
     text: "A consortium of academic institutions in Slovenia that integrates the country's research infrastructure focusing on structural biology."
     image: /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png
   - title: "Contact"
-    text: "General contact: [**instruct.si@ki.si**](mailto:instruct.si@ki.si)"
-    text: "Coordinator of Instruct.SI: [**Marjetka Podobnik**](mailto:marjetka.podobnik@ki.si)"
-    text: "President of the management board: [**Miha Pavšič**](mailto:miha.pavsic@fkkt.uni-lj.si)"
+    text: "General contact: [**instruct.si@ki.si**](mailto:instruct.si@ki.si)
+           Coordinator of Instruct.SI: [**Marjetka Podobnik**](mailto:marjetka.podobnik@ki.si)
+           President of the management board: [**Miha Pavšič**](mailto:miha.pavsic@fkkt.uni-lj.si)"
 ---
 
 Instruct.SI is a consortium of academic institutions in Slovenia that brings together research infrastructure in the field of structural biology. The consortium was established upon the inclusion of the Republic of Slovenia in [Instruct-ERIC](https://instruct-eric.org/).
