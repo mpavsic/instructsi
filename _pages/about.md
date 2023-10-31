@@ -8,6 +8,7 @@ toc: true
 last_modified_at: 2023-10-30
 toc_sticky: true
 sidebar:
+    image: 
   - title: "Instruct.SI"
   - title: "Contact"
     text: "[instruct.si@ki.si](mailto:instruct.si@ki.si)"
