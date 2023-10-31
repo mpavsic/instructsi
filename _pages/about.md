@@ -65,8 +65,8 @@ Membership of the Republic of Slovenia in the Instruct-ERIC is financed by:
 ![Ministry of Higher Education, Science and Innovation of the Republic of Slovenia]({{ site.url }}{{ site.baseurl }}/assets/images/logo/mvzi-rs-logo-en-noborder-500x88.png)
 
 <figure class="half">
-    <a href="https://www.arrs.si/en/"><img src="/instruct/assets/images/logo/aris-logo-en-noborder-500x101.png"></a>
-    <a href="https://www.gov.si/en/state-authorities/ministries/ministry-of-higher-education-science-and-innovation/"><img src="/instruct/assets/images/logo/mvzi-rs-logo-en-noborder-500x88.png"></a>
+    <a href="https://www.arrs.si/en/"><img src="https://mpavsic.github.io/instructsi/assets/images/logo/aris-logo-en-noborder-500x101.png"></a>
+    <a href="https://www.gov.si/en/state-authorities/ministries/ministry-of-higher-education-science-and-innovation/"><img src="https://mpavsic.github.io/instruct/assets/images/logo/mvzi-rs-logo-en-noborder-500x88.png"></a>
 </figure>
 
 *TODO: logos of ARIS and Ministry*
