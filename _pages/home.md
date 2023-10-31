@@ -45,4 +45,6 @@ feature_row:
   {% endfor %}
 </div>
 
+{% include paginator.html %}
+
 Click [here](/instructsi/year-archive/) for more posts.
