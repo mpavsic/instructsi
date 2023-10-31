@@ -38,10 +38,23 @@ feature_row:
 
 # Recent posts
 
-<div class="feature__wrapper">
-  {% for post in site.posts limit:3 %}
-    {{ post.title }} 
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
 
-Click [here](/year-archive/) for more posts.
+{% include paginator.html %}
+
+Click [here](/instructsi/year-archive/) for more posts.
