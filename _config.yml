@@ -108,11 +108,11 @@ author:
   avatar           : /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png
   bio              : "A consortium of academic institutions in Slovenia that integrates the country’s research infrastructure focusing on structural biology."
   location         : "Slovenia"
-  email            : "instruct.si@ki.si"
+  email            : 
   links:
-    - label: "General e-mail"
+    - label: "instruct.si@ki.si</br>(general e-mail)"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:instruct.si@ki.si"
+      url: "mailto:instruct.si@ki.si"
     - label: "Marjetka Podobnik</br>(coordinator)"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:marjetka.podobnik@ki.si"
