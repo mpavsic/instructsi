@@ -24,8 +24,8 @@ description              : "Consortium for integrative structural biology in Slo
 url                      : https://mpavsic.github.io/
 baseurl                  : /instructsi # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/base/intro_01_bw.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : /assets/images/base/intro-01-bw.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : /assets/images/logo/instructsi-logo-transparent-noborder-500x228.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Instruct.SI"
-  avatar           : /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png
+  avatar           : /assets/images/logo/instructsi-logo-transparent-noborder-500x228.png
   bio              : "A consortium of academic institutions in Slovenia that integrates the country’s research infrastructure focusing on structural biology."
   location         : "Slovenia"
   email            : 
