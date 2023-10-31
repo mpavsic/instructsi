@@ -36,8 +36,12 @@ feature_row:
 
 {% include feature_row %}
 
+# Recent posts
+
 <div class="feature__wrapper">
   {% for post in site.posts limit:3 %}
     {{ post.title }} 
   {% endfor %}
 </div>
+
+Click [here](/year-archive/) for more posts.
