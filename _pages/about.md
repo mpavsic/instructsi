@@ -44,7 +44,7 @@ The tasks of the Instruct.SI management board include:
 - Deciding on the extent of participation in Instruct-ERIC (membership, establishment of a research site/centre, etc.) as proposed to the Republic of Slovenia as a member of Instruct-ERIC.
 - Deciding on the management of the consortium's financial resources.
 - Decision-making on various project application submissions.
-- Deciding on other matters as specified in this agreement.
+- Deciding on other matters as specified in the agreement.
 
 # Coordination
 
@@ -64,5 +64,3 @@ Membership of the Republic of Slovenia in the Instruct-ERIC is financed by:
     <a href="https://www.arrs.si/en/"><img src="https://mpavsic.github.io/instructsi/assets/images/logo/aris-logo-en-noborder-500x101.png"></a>
     <a href="https://www.gov.si/en/state-authorities/ministries/ministry-of-higher-education-science-and-innovation/"><img src="https://mpavsic.github.io/instructsi/assets/images/logo/mvzi-rs-logo-en-noborder-500x88.png"></a>
 </figure>
-
-*TODO: logos of ARIS and Ministry*
