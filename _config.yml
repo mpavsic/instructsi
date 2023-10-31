@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : " "
 name                     : "Instruct.SI"
 description              : "Consortium for integrative structural biology in Slovenia"
-url                      : https://mpavsic.github.io/instructsi
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : https://mpavsic.github.io
+baseurl                  : /instruct # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/base/intro-01-bw.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/logo/instructsi-logo-transparent-noborder-500x228.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
