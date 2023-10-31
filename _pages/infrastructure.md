@@ -1,5 +1,5 @@
 ---
-permalink: /infrastructure_si/
+permalink: /infrastructure/
 title: "Infrastructure in Slovenia"
 excerpt: "A list of structural biology infrastructure in Slovenia."
 layout: single

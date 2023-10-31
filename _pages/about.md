@@ -8,6 +8,8 @@ toc: true
 last_modified_at: 2023-10-30
 toc_sticky: true
 sidebar:
+  - title: "Instruct.SI"
+    text: "A consortium of academic institutions in Slovenia that integrates the country's research infrastructure focusing on structural biology."
     image: /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png
   - title: "Contact"
     text: "[instruct.si@ki.si](mailto:instruct.si@ki.si)"
