@@ -9,7 +9,7 @@ header:
     - label: "About"
       url: "/about/"
 excerpt: >
-  Enabling researchers from Slovenia a funded access to high-end structural biology services and techniques
+  A consortium of academic institutions in Slovenia that integrates the country's research infrastructure focusing on structural biology
 feature_row:
   - image_path: /assets/images/base/intro_01_bw.png
     alt: "Instruct-ERIC"

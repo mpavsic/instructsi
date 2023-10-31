@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Infrastructure"
+    url: /infrastructure/
   - title: "Posts"
     url: /year-archive/
   - title: "About"

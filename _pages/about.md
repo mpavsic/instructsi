@@ -3,10 +3,14 @@ permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layout: single
-author_profile: true
+author_profile: false
 toc: true
 last_modified_at: 2023-10-30
 toc_sticky: true
+sidebar:
+  - title: "Instruct.SI"
+  - title: "Contact"
+    text: "[instruct.si@ki.si](mailto:instruct.si@ki.si)"
 ---
 
 Instruct.SI is a consortium of academic institutions in Slovenia that brings together research infrastructure in the field of structural biology. The consortium was established upon the inclusion of the Republic of Slovenia in [Instruct-ERIC](https://instruct-eric.org/).
