@@ -283,7 +283,7 @@ defaults:
       type: posts
     values:
       layout: single
-      class: wide
+      classes: wide
       author_profile: false
       read_time: true
       comments: # true
