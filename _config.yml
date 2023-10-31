@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Instruct.SI"
   avatar           : /assets/images/logo/instructsi_logo_transparent_noborder_500x228.png
-  bio              : "Consortium for integrative structural biology in Slovenia."
+  bio              : "A consortium of academic institutions in Slovenia that integrates the country’s research infrastructure focusing on structural biology."
   location         : "Slovenia"
   email            : 
   links:
@@ -283,6 +283,7 @@ defaults:
       type: posts
     values:
       layout: single
+      class: wide
       author_profile: false
       read_time: true
       comments: # true
