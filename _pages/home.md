@@ -37,9 +37,7 @@ feature_row:
 {% include feature_row %}
 
 <div class="feature__wrapper">
-
-  {% for f in site.posts limit:3 %}
-     <!-- can stay the same as the current feature_row include -->
+  {% for post in site.posts limit:3 %}
+    {{ post.title }} 
   {% endfor %}
-
 </div>
