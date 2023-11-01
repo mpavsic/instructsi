@@ -50,5 +50,4 @@ feature_row:
   {% endfor %}
 </div>
 
-
-Click [here](/instructsi/year-archive/) for more posts.
+[More posts](/instructsi/year-archive/).

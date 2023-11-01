@@ -18,7 +18,18 @@ The purpose and goals the Instruct.SI consortium are primarily:
 
 # Member institutions
 
-*TODO: a list of member institutions with their logos*
+- [Centre of Excellence for Integrated Approaches in Chemistry and Biology of Proteins / *Center odličnosti za integrirane pristope v kemiji in biologiji proteinov* (**CIPKeBiP**)](https://cipkebip.org/), Ljubljana
+- [Jožef Stefan Institute / *Institut "Jožef Stefan"* (**IJS**)](https://www.ijs.si/), Ljubljana
+- [National Institute of Chemistry / *Kemijski inštitut* (**KI/NIC**)](https://www.ki.si/), Ljubljana
+- [National Institute of Biology / *Nacionalni inštitut za biologijo* (**NIB**)](http://www.nib.si/), Ljubljana
+- [University of Ljubljana / *Univerza v Ljubljani* (**UL**)](https://www.uni-lj.si/), Ljubljana
+  - Biotechnical Faculty / *Biotehniška fakulteta* (UL BF)
+  - Faculty of Chemistry and Chemical Technology / *Fakulteta za kemijo in kemijsko tehnologijo*  (UL FKKT)
+  - Faculty of Medicine / *Medicinska fakulteta* (UL MF)
+  - Faculty of Pharmacy / *Fakulteta za farmacijo* (UL FFA)
+- [University of Maribor / *Univerza v Mariboru* (**UM**)](https://www.um.si/), Maribor
+  - Faculty of Chemistry and Chemical Technology / *Fakulteta za kemijo in kemijsko tehnologijo* (UM FKKT)
+- [University of Nova Gorica / *Univerza v Novi Gorici* (**UNG**)](https://www.ung.si/), Nova Gorica
 
 # Management board
 
