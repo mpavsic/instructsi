@@ -20,7 +20,7 @@ The purpose and goals the Instruct.SI consortium are primarily:
 
 - [Centre of Excellence for Integrated Approaches in Chemistry and Biology of Proteins / *Center odličnosti za integrirane pristope v kemiji in biologiji proteinov* (**CIPKeBiP**)](https://cipkebip.org/), Ljubljana
 - [Jožef Stefan Institute / *Institut "Jožef Stefan"* (**IJS**)](https://www.ijs.si/), Ljubljana
-- [National Institute of Chemistry / *Kemijski inštitut* (**KI/NIC**)](https://www.ki.si/), Ljubljana
+- [National Institute of Chemistry / *Kemijski inštitut* (**KI / NIC**)](https://www.ki.si/), Ljubljana
 - [National Institute of Biology / *Nacionalni inštitut za biologijo* (**NIB**)](http://www.nib.si/), Ljubljana
 - [University of Ljubljana / *Univerza v Ljubljani* (**UL**)](https://www.uni-lj.si/), Ljubljana
   - Biotechnical Faculty / *Biotehniška fakulteta* (UL BF)
