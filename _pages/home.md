@@ -45,7 +45,7 @@ feature_row:
 {% endif %}
 
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  {% for post in posts limit:3 %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
