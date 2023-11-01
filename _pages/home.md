@@ -38,6 +38,8 @@ feature_row:
 
 # Recent posts
 
+{{ content }}
+
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
