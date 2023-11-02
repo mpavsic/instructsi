@@ -50,4 +50,4 @@ feature_row:
   {% endfor %}
 </div>
 
-[More posts](/instructsi/year-archive/).
+[More posts](/instructsi/year-archive/){: .btn .btn--info}
