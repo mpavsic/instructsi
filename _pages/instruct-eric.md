@@ -11,13 +11,13 @@ toc_sticky: true
 
 # About Instruct-ERIC
 
-**[Instruct-ERIC](https://instruct-eric.org) is a member of the family of ERICs** - [European Research Infrastructure Consortia](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en) aimed at establishing and operating research infrastructure on a non-economic basis. It formally established on July 4, 2017. **Instruct-ERIC's primary objective** revolves around fostering innovation in the field of biomedical science and granting users access to advanced technologies and methodologies in structural biology:
+**[Instruct-ERIC](https://instruct-eric.org) is a member of the family of ERICs** - [European Research Infrastructure Consortia](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en) aimed at establishing and operating research infrastructure on a non-economic basis. It was formally established on July 4, 2017. **Instruct-ERIC's primary objective** revolves around fostering innovation in the field of biomedical science and granting users access to advanced technologies and methodologies in structural biology:
 - **Advancement of Integrative Structural Cell Biology**: Facilitating progress in the field of structural cell biology by integrating diverse methodologies and approaches.
 - **Enhanced Accessibility to European Structural Biology Facilities**: Providing managed access to cutting-edge European structural biology facilities and specialized expertise for researchers.
 - **Promotion of Instruct Technology**: Furthering the development and utilization of the Instruct technology to empower advancements in structural biology research.
 - **Training Provision in Integrative Techniques**: Offering comprehensive training programs to equip researchers with integrative techniques crucial for breakthroughs in structural biology.
 
-Operating with a steadfast commitment to principles, Instruct-ERIC prioritizes scientific excellence in its service provision and research support, while ensuring that transparency, equality, and legality remain fundamental aspects of its operational framework. Both academic and industry researchers worldwide can avail themselves of the comprehensive resources of Instruct, including its infrastructure, expertise, and methods. Researchers hailing from Instruct member countries are eligible to seek funding support for their projects.
+Operating with a steadfast commitment to principles, Instruct-ERIC prioritizes scientific excellence in its service provision and research support, while ensuring that transparency, equality, and legality remain fundamental aspects of its operational framework. Both academic and industry researchers worldwide can avail themselves of the comprehensive resources of Instruct, including its infrastructure, expertise, and methods. **Researchers from Instruct member countries are eligible to seek funding support for their projects.**
 
 ## Members
 
