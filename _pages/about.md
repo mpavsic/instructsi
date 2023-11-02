@@ -31,6 +31,8 @@ The purpose and goals the Instruct.SI consortium are primarily:
   - Faculty of Chemistry and Chemical Technology / *Fakulteta za kemijo in kemijsko tehnologijo* (UM FKKT)
 - [University of Nova Gorica / *Univerza v Novi Gorici* (**UNG**)](https://www.ung.si/), Nova Gorica
 
+Instruct.SI consortium is open to accept new members willing to actively participate in it's activities.
+
 # Management board
 
 The management board of the Instruct.SI consortium is composed of one main representative from each of the member institutions, plus one deputy member.

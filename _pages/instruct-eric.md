@@ -23,7 +23,7 @@ Operating with a steadfast commitment to principles, Instruct-ERIC prioritizes s
 
 The consortium of Instruct-ERIC comprises 15 member countries (Belgium, Czech Republic, Finland, France, Greece, Israel, Italy, Latvia, Lithuania, Netherlands, Portugal, Slovakia, Slovenia, Spain, and United Kingdom), plus European Molecular Biology Laboratory (EMBL) as an organization.
 
-[Slovenia joined Instruct-ERIC](/instructsi/administration/slovenia-joins-instruct-eric) in May 2023.
+[Slovenia joined Instruct-ERIC in May 2023](/instructsi/administration/slovenia-joins-instruct-eric), and from July 1, 2023, on researcher from Slovenia got the same opportunities for funded access to Instruct-ERIC services as researchers from other member countries. To integrate structural biology infrastructure and better connect researchers in Slovenia as well as to catalyze further development and investments, the [Instruct.SI consortium was established on 2023](/instructsi/administration/instructsi-establishment). Click [here](/about/)for more info on Instruct.SI.
 
 ## Financing
 
