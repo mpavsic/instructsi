@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "About Instruct.SI"
+excerpt: "About Instruct.SI consortium."
 layout: single
 author_profile: true
 toc: true
