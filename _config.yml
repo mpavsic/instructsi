@@ -110,7 +110,7 @@ author:
   location         : "Slovenia"
   email            : 
   links:
-    - label: "instruct.si@ki.si</br>(general e-mail)"
+    - label: "instruct.si@ki.si</br>(general contact e-mail)"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:instruct.si@ki.si"
     - label: "Marjetka Podobnik</br>(coordinator)"
