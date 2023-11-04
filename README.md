@@ -6,7 +6,7 @@ The code for the website is derived from the [Minimal Mistakes](https://github.c
 
 ## Credits
 
-### Creator
+### Code creator
 
 **Michael Rose**
 
@@ -14,11 +14,10 @@ The code for the website is derived from the [Minimal Mistakes](https://github.c
 - <https://twitter.com/mmistakes>
 - <https://github.com/mmistakes>
 
-### Icons + Demo Images:
+### Icons:
 
 - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
 - [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
 
 ### Other:
 
